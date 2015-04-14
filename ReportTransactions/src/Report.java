@@ -46,11 +46,11 @@ public class Report {
 
  		/*createYearlyReport(2013);
  		createYearlyReport(2014);
- 		createYearlyReport(2015);*/
+ 		createYearlyReport(2015); */
  		
  		/*createMonthlyReport(2013);
  		createMonthlyReport(2014);
- 		createMonthlyReport(2015);*/
+ 		createMonthlyReport(2015); */
  		
  		/*try {
 			writer = new PrintWriter("C:/javaTest/outputWeeklyTransactions.txt");
